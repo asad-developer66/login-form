@@ -1,12 +1,24 @@
-# Login Form
+# Responsive Login Form
 
-GitHub Repository: [Click here](https://github.com/asad-developer66/login-form)
+This is a **responsive login form** built using **HTML** and **CSS**.  
+It features a clean, modern design and works seamlessly on all devices.
 
-This is a responsive login form built using HTML and CSS. It is simple, clean, and easy to customize.
+🔗 **Live Demo:** [auth-login-form.netlify.app](https://auth-login-form.netlify.app/)
 
-## Usage
-- Open the `index.html` file in your browser to view the login form.
-- The `style.css` file contains the styles used to design the form.
+## Features
+
+- Fully responsive layout
+- Clean and minimal UI
+- Easy to customize
+- Built with pure HTML & CSS (no JavaScript)
+
+## How to Use
+
+1. Download or clone the repository.
+2. Open the `index.html` file in your browser.
+3. Customize the styles in `style.css` as needed.
 
 ## Author
-Asad Developer
+
+**Asad Developer**  
+🌐 [auth-login-form.netlify.app](https://auth-login-form.netlify.app/)
